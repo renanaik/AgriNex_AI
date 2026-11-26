@@ -1,0 +1,12 @@
+soil_category,precision,recall,f1_score,support,true_positives,false_positives,false_negatives
+Alluvial_Soil,0.0,0.0,0.0,5,0,0,5
+Arid_Soil,0.0,0.0,0.0,5,0,0,5
+Black_Soil,0.2381,1.0,0.3846,5,5,16,0
+Laterite_Soil,0.0,0.0,0.0,5,0,0,5
+Mountain_Soil,0.0,0.0,0.0,5,0,0,5
+Red_Soil,0.5,1.0,0.6667,5,5,5,0
+Yellow_Soil,1.0,0.8,0.8889,5,4,0,1
+
+accuracy,,,0.4,35,,,
+macro_avg,0.2483,0.4,0.2772,35,,,
+weighted_avg,0.2483,0.4,0.2772,35,,,
